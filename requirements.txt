@@ -1,0 +1,6 @@
+PyQt6==6.5.0
+requests==2.31.0
+vdf==3.4        # For Steam manifest parsing
+psutil==5.9.5   # For process management
+python-dotenv==1.0.0
+sqlalchemy==2.0.23
