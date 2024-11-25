@@ -1,3 +1,3 @@
 `src/core/__init__.py`
-    - Implement content synchronization logic
+- Implement content synchronization logic
 
