@@ -1,3 +1,5 @@
+# src/ui/library_view.py
+
 from PyQt6.QtWidgets import (QWidget, QVBoxLayout, QHBoxLayout, QTableWidget, 
                              QTableWidgetItem, QComboBox, QLineEdit, QPushButton)
 from PyQt6.QtCore import Qt

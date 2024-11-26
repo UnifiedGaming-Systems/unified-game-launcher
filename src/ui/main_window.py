@@ -1,3 +1,5 @@
+# src/ui/main_window.py
+
 import sys
 from PyQt6.QtWidgets import (QMainWindow, QApplication, QVBoxLayout, QHBoxLayout, 
                              QWidget, QPushButton, QStackedWidget, QSidebar)

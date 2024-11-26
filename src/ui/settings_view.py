@@ -1,3 +1,5 @@
+# src/ui/settings_view.py
+
 from PyQt6.QtWidgets import (QWidget, QVBoxLayout, QHBoxLayout, QLabel, QLineEdit, 
                              QPushButton, QComboBox, QCheckBox, QGroupBox, QMessageBox)
 from PyQt6.QtCore import Qt
