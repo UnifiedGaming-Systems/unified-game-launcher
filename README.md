@@ -30,8 +30,3 @@ PS_CLIENT_ID=your_playstation_client_id
 ## Development
 - Main application entry point is `src/main.py`
 - Run tests with `python -m pytest tests/`
-
-## Contributing
-1. Fork the repository
-2. Create a new branch for your feature
-3. Submit a pull request
