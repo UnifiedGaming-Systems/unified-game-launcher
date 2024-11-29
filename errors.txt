@@ -1,5 +1,0 @@
-This file is for documenting known errors in the build, as I experience them. Other users may use the GitHub, but this is for personal found errors.
-
-Errors so far
-
-None
